@@ -1,0 +1,6 @@
+C:\Users\v-malsat\Desktop\Satya\VSProjects\Data Structures Labs\Data Structures Labs\bin\Debug\Data Structures Labs.exe.config
+C:\Users\v-malsat\Desktop\Satya\VSProjects\Data Structures Labs\Data Structures Labs\bin\Debug\Data Structures Labs.exe
+C:\Users\v-malsat\Desktop\Satya\VSProjects\Data Structures Labs\Data Structures Labs\bin\Debug\Data Structures Labs.pdb
+C:\Users\v-malsat\Desktop\Satya\VSProjects\Data Structures Labs\Data Structures Labs\obj\Debug\Data Structures Labs.exe
+C:\Users\v-malsat\Desktop\Satya\VSProjects\Data Structures Labs\Data Structures Labs\obj\Debug\Data Structures Labs.pdb
+C:\Users\v-malsat\Desktop\Satya\VSProjects\Data Structures Labs\Data Structures Labs\obj\Debug\Data Structures Labs.csprojResolveAssemblyReference.cache
